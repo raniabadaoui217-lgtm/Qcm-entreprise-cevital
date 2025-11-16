@@ -45,8 +45,8 @@ QCM sur l’entreprise Cévital – École Supérieure de Finance et comptabilit
   <footer>
     <p><strong>Préparé par :</strong> Badaoui Zahira Rania – Groupe 4</p>
     <p><strong>École Supérieure de Comptabilité et de Finance – Constantine</strong></p>
-    <p><strong>Deuxième année – Phase préparatoire</strong></p>
-    <p><strong>Enseignante encadrante :</strong> Mme Sahli Khadidja</p>
+    <p><strong>Deuxième année – cycle préparatoire</strong></p>
+    <p><strong>Enseignante:</strong> Mme Sahli Khadidja</p>
     <p><strong>Sources :</strong> Site officiel Cévital, Wikipédia, articles de presse</p>
     <p><img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cevital_Logo.png" alt="Logo Cevital"></p>
   </footer>
